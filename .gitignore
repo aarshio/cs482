@@ -1,0 +1,5 @@
+fake_peptides.txt
+real_peptides.txt
+uniprot_sprot.fasta
+svm_model.joblib
+kmers.json
